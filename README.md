@@ -1,4 +1,4 @@
-<h1 align="center">Profiler v1.0</h1>
+<h1 align="center">Profiler</h1>
 
 Profiler allows you to have access to the information of any instagram user.
 
